@@ -4,30 +4,53 @@
 
 This repository contains the training material for the [SustAIN.Brussels training track on ChatGPT and next-generation assistants](https://www.sustain.brussels/fr_BE/event/chatgpt-next-generation-assistants-training-track-108/register). The track took place between the 2nd of April 2025 and the 4th of April 2025, at [FARI](https://www.fari.brussels/).
 
-![agenda](images/agenda.png)
 
-- Day 1, full day (6 hours) - [Yann-Aël Le Borgne](https://www.linkedin.com/in/yannaelb/) : Non-technical introduction to generative AI. The session was divided in five parts:
+# Day 1: Non-technical introduction to generative AI
 
-	- 1h30: Examples of generative AI applications
-	- 1h30: Machine learning, image recognition and next-word prediction
-	- 1h: LLM training, technical limits and mitigations
-	- 1h: Ethical concerns: Biases, privacy and environmental impacts
-	- 1h: LLM ecosystem: Proprietary and open-source solutions
+Full day (6 hours). Instructor: [Yann-Aël Le Borgne](https://www.linkedin.com/in/yannaelb/).
+
+![slide1](images/agenda.png)
+
+The day was divided in five main parts:
+
+- 1h30: Examples of generative AI applications
+- 1h30: Machine learning, image recognition and next-word prediction
+- 1h: LLM training, technical limits and mitigations
+- 1h: Ethical concerns: Biases, privacy and environmental impacts
+- 1h: LLM ecosystem: Proprietary and open-source solutions
+
+[Slides available here](https://github.com/Yannael/gen-ai-sustain-brussels/blob/main/Day_1_Intro_ChatGPT_AI_Assistants.pdf).
+
+
+# Day 2: Hands-on workshop on using the OpenAI API
+
+Half-day (3 hours). Instructor: [Olivier Caelen](https://www.linkedin.com/in/oliviercaelen/).
+
+Examples are mostly taken from Olivier's book "[Developing Apps with GPT-4 and ChatGPT](https://www.oreilly.com/library/view/developing-apps-with/9781098152475/)". 
 
 ![oreilly](images/oreilly-book.jpeg)
 
-- Day 2, half day (3 hours) - [Olivier Caelen](https://www.linkedin.com/in/oliviercaelen/) : Hands-on workshop on using the OpenAI API. Examples are mostly taken from Olivier's book "[Developing Apps with GPT-4 and ChatGPT](https://www.oreilly.com/library/view/developing-apps-with/9781098152475/)". The session covered:
-	-  "Hello world": Connect to the OpenAI API and get responses from an OpenAI model
-	-  Forcing GPT to return a JSON output
-	-  How to analyse images with the vision API
-	-  How to generate image with DALL-E 3
-	-  Converting text to speech and speech to text
+The session covered:
 
-![huggingface_spaces.png](images/huggingface_spaces.png)
+-  "Hello world": Connect to the OpenAI API and get responses from an OpenAI model [<img align="center" src="https://colab.research.google.com/assets/colab-badge.svg" />](https://colab.research.google.com/github.com/Yannael/gen-ai-sustain-brussels/blob/main/Day_2_OpenAI_API/1_HelloWorld.ipynb)
+-  Forcing GPT to return a JSON output [<img align="center" src="https://colab.research.google.com/assets/colab-badge.svg" />](https://colab.research.google.com/github.com/Yannael/gen-ai-sustain-brussels/blob/main/Day_2_OpenAI_API/2_JSON.ipynb)
+-  How to analyse images with the vision API
+-  How to generate image with DALL-E 3
+-  Converting text to speech and speech to text
 
-- Day 3, half day (3 hours) - [Yann-Aël Le Borgne](https://www.linkedin.com/in/yannaelb/): Hands-on workshop on using open-source generative AI models with Hugging Face, and deploying Gradio web applications. Examples are mostly taken from [Hugging Face online course on large language models](https://huggingface.co/learn/llm-course/chapter1/1?fw=pt). The session covered:
+[Notebooks available here](https://github.com/Yannael/gen-ai-sustain-brussels/tree/main/Day_2_OpenAI_API).
 
-	- Text generation with open-source models (such as GPT2) using the Hugging Face transformers library
-	- Building a web app with Gradio
-	- Making a Gradio web app predict text with the transformers library, or OpenAI API
-	- Deploying the web app on Hugging Face spaces for free
+# Day 3: Hands-on workshop on using open-source generative AI models with Hugging Face, and deploying Gradio web applications
+
+Half-day (3 hours). Instructor: [Yann-Aël Le Borgne](https://www.linkedin.com/in/yannaelb/). 
+
+Examples are mostly taken from [Hugging Face online course on large language models](https://huggingface.co/learn/llm-course/chapter1/1?fw=pt).
+
+![huggingface_spaces.png](images/huggingface_spaces.png) 
+
+The session covered:
+
+- Text generation with open-source models (such as GPT2) using the Hugging Face transformers library
+- Building a web app with Gradio
+- Making a Gradio web app predict text with the transformers library, or OpenAI API
+- Deploying the web app on Hugging Face spaces for free.
