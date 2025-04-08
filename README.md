@@ -19,7 +19,7 @@ The day was divided in five main parts:
 - 1h: Ethical concerns: Biases, privacy and environmental impacts
 - 1h: LLM ecosystem: Proprietary and open-source solutions
 
-[Slides available here](https://github.com/Yannael/gen-ai-sustain-brussels/blob/main/Day_1_Intro_ChatGPT_AI_Assistants.pdf).
+The slides are [available here](https://github.com/Yannael/gen-ai-sustain-brussels/tree/main/Part_1_Intro_ChatGPT_AI_Assistants).
 
 
 # Part 2: Hands-on workshop on using the OpenAI API
@@ -32,13 +32,13 @@ Examples are mostly taken from Olivier's book "[Developing Apps with GPT-4 and C
 
 The session covered:
 
--  "Hello world": Connect to the OpenAI API and get responses from an OpenAI model [<img align="center" src="https://colab.research.google.com/assets/colab-badge.svg" />](https://colab.research.google.com/github.com/Yannael/gen-ai-sustain-brussels/blob/main/Day_2_OpenAI_API/1_HelloWorld.ipynb)
--  Forcing GPT to return a JSON output [<img align="center" src="https://colab.research.google.com/assets/colab-badge.svg" />](https://colab.research.google.com/github.com/Yannael/gen-ai-sustain-brussels/blob/main/Day_2_OpenAI_API/2_JSON.ipynb)
--  How to analyse images with the vision API
--  How to generate image with DALL-E 3
--  Converting text to speech and speech to text
+-  "Hello world": Connect to the OpenAI API and get responses from an OpenAI model [<img align="center" src="https://colab.research.google.com/assets/colab-badge.svg" />](https://colab.research.google.com/github.com/Yannael/gen-ai-sustain-brussels/blob/main/Part_2_OpenAI_API/1_HelloWorld.ipynb)
+-  Forcing GPT to return a JSON output [<img align="center" src="https://colab.research.google.com/assets/colab-badge.svg" />](https://colab.research.google.com/github.com/Yannael/gen-ai-sustain-brussels/blob/main/Part_2_OpenAI_API/2_JSON.ipynb)
+-  How to analyse images with the vision API [<img align="center" src="https://colab.research.google.com/assets/colab-badge.svg" />](https://colab.research.google.com/github.com/Yannael/gen-ai-sustain-brussels/blob/main/Part_2_OpenAI_API/3_Vision.ipynb)
+-  How to generate image with DALL-E 3 [<img align="center" src="https://colab.research.google.com/assets/colab-badge.svg" />](https://colab.research.google.com/github.com/Yannael/gen-ai-sustain-brussels/blob/main/Part_2_OpenAI_API/4_DALL-E_3.ipynb)
+-  Converting text to speech and speech to text [<img align="center" src="https://colab.research.google.com/assets/colab-badge.svg" />](https://colab.research.google.com/github.com/Yannael/gen-ai-sustain-brussels/blob/main/Part_2_OpenAI_API/5_Audio.ipynb)
 
-[Notebooks available here](https://github.com/Yannael/gen-ai-sustain-brussels/tree/main/Day_2_OpenAI_API).
+The notebooks are [available here](https://github.com/Yannael/gen-ai-sustain-brussels/tree/main/Part_2_OpenAI_API).
 
 # Part 3: Hands-on workshop on using open-source generative AI models with Hugging Face, and deploying Gradio web applications
 
@@ -50,7 +50,9 @@ Examples are mostly taken from [Hugging Face online course on large language mod
 
 The session covered:
 
-- Text generation with open-source models (such as GPT2) using the Hugging Face transformers library
-- Building a web app with Gradio
-- Making a Gradio web app predict text with the transformers library, or OpenAI API
-- Deploying the web app on Hugging Face spaces for free.
+- Text generation with open-source models (such as GPT2) using the Hugging Face transformers library [<img align="center" src="https://colab.research.google.com/assets/colab-badge.svg" />](https://colab.research.google.com/github.com/Yannael/gen-ai-sustain-brussels/blob/main/Part_3_HuggingFace_Gradio/1_Transformers.ipynb)
+- Building a web app with Gradio [<img align="center" src="https://colab.research.google.com/assets/colab-badge.svg" />](https://colab.research.google.com/github.com/Yannael/gen-ai-sustain-brussels/blob/main/Part_3_HuggingFace_Gradio/2_Gradio.ipynb)
+- Making a Gradio web app predict text with the transformers library, or OpenAI API [<img align="center" src="https://colab.research.google.com/assets/colab-badge.svg" />](https://colab.research.google.com/github.com/Yannael/gen-ai-sustain-brussels/blob/main/Part_3_HuggingFace_Gradio/1_Transformers.ipynb)
+- Deploying the web app on Hugging Face spaces for free [<img align="center" src="https://colab.research.google.com/assets/colab-badge.svg" />](https://colab.research.google.com/github.com/Yannael/gen-ai-sustain-brussels/blob/main/Part_3_HuggingFace_Gradio/1_Transformers.ipynb)
+
+The notebooks are [available here](https://github.com/Yannael/gen-ai-sustain-brussels/tree/main/Part_3_HuggingFace_Gradio).
