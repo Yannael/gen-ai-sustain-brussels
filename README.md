@@ -46,7 +46,8 @@ Half-day (3 hours). Instructor: [Yann-Aël Le Borgne](https://www.linkedin.com/i
 
 Examples are mostly taken from [Hugging Face online course on large language models](https://huggingface.co/learn/llm-course/chapter1/1?fw=pt).
 
-![huggingface_spaces.png](images/huggingface_spaces.png) 
+<img src="https://github.com/Yannael/gen-ai-sustain-brussels/blob/main/images/huggingface_spaces.png?raw=true" width="500px"/>
+
 
 The session covered:
 
