@@ -7,9 +7,7 @@ This repository contains the training material for the [SustAIN.Brussels trainin
 
 # Part 1: Non-technical introduction to generative AI
 
-Full day (6 hours). Instructor: [Yann-Aël Le Borgne](https://www.linkedin.com/in/yannaelb/).
-
-<img src="https://github.com/Yannael/gen-ai-sustain-brussels/blob/main/images/gen-ai-intro.png?raw=true" width="500px"/>
+Full day (6 hours). Instructor: [Yann-Aël Le Borgne](https://www.linkedin.com/in/yannaelb/). The slides are [available here](https://github.com/Yannael/gen-ai-sustain-brussels/tree/main/Part_1_Intro_ChatGPT_AI_Assistants).
 
 The day was divided in five main parts:
 
@@ -18,8 +16,6 @@ The day was divided in five main parts:
 - 1h: LLM training, technical limits and mitigations
 - 1h: Ethical concerns: Biases, privacy and environmental impacts
 - 1h: LLM ecosystem: Proprietary and open-source solutions
-
-The slides are [available here](https://github.com/Yannael/gen-ai-sustain-brussels/tree/main/Part_1_Intro_ChatGPT_AI_Assistants).
 
 
 # Part 2: Hands-on workshop on using the OpenAI API
