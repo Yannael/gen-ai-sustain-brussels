@@ -5,7 +5,7 @@
 This repository contains the training material for the [SustAIN.Brussels training track on ChatGPT and next-generation assistants](https://www.sustain.brussels/fr_BE/event/chatgpt-next-generation-assistants-training-track-108/register). The track took place between the 2nd of April 2025 and the 4th of April 2025, at [FARI](https://www.fari.brussels/).
 
 
-# Day 1: Non-technical introduction to generative AI
+# Part 1: Non-technical introduction to generative AI
 
 Full day (6 hours). Instructor: [Yann-Aël Le Borgne](https://www.linkedin.com/in/yannaelb/).
 
@@ -22,7 +22,7 @@ The day was divided in five main parts:
 [Slides available here](https://github.com/Yannael/gen-ai-sustain-brussels/blob/main/Day_1_Intro_ChatGPT_AI_Assistants.pdf).
 
 
-# Day 2: Hands-on workshop on using the OpenAI API
+# Part 2: Hands-on workshop on using the OpenAI API
 
 Half-day (3 hours). Instructor: [Olivier Caelen](https://www.linkedin.com/in/oliviercaelen/).
 
@@ -40,7 +40,7 @@ The session covered:
 
 [Notebooks available here](https://github.com/Yannael/gen-ai-sustain-brussels/tree/main/Day_2_OpenAI_API).
 
-# Day 3: Hands-on workshop on using open-source generative AI models with Hugging Face, and deploying Gradio web applications
+# Part 3: Hands-on workshop on using open-source generative AI models with Hugging Face, and deploying Gradio web applications
 
 Half-day (3 hours). Instructor: [Yann-Aël Le Borgne](https://www.linkedin.com/in/yannaelb/). 
 
