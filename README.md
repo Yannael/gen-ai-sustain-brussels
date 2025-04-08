@@ -9,9 +9,7 @@ This repository contains the training material for the [SustAIN.Brussels trainin
 
 Full day (6 hours). Instructor: [Yann-Aël Le Borgne](https://www.linkedin.com/in/yannaelb/).
 
-<img src="" width="500px"/>
-
-![gen-ai-intro](images/gen-ai-intro.png)
+<img src="https://github.com/Yannael/gen-ai-sustain-brussels/blob/main/images/gen-ai-intro.png?raw=true" width="500px"/>
 
 The day was divided in five main parts:
 
