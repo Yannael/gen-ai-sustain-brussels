@@ -19,4 +19,9 @@ The training was 12 hours long, given over three days, between the 2nd of April 
 	-  How to generate image with DALL-E 3
 	-  Converting text to speech and speech to text
 
-- Day 3, half day (3 hours) - [Yann-Aël Le Borgne](https://www.linkedin.com/in/yannaelb/): 
+- Day 3, half day (3 hours) - [Yann-Aël Le Borgne](https://www.linkedin.com/in/yannaelb/): Hands-on workshop on using open-source generative AI models with Hugging Face, and deploying Gradio web applications. Examples are mostly taken from [Hugging Face online course on large language models](https://huggingface.co/learn/llm-course/chapter1/1?fw=pt). The session covered:
+
+	- Text generation with open-source models (such as GPT2) using the Hugging Face transformers library
+	- Building a web app with Gradio
+	- Making a Gradio web app predict text with the transformers library, or OpenAI API
+	- Deploying the web app on Hugging Face spaces for free
