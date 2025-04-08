@@ -18,7 +18,7 @@ The day was divided in five main parts:
 - 1h: LLM ecosystem: Proprietary and open-source solutions
 
 
-# Part 2: Hands-on workshop on using the OpenAI API
+# Part 2: Hands-on session on using the OpenAI API
 
 Half-day (3 hours). Instructor: [Olivier Caelen](https://www.linkedin.com/in/oliviercaelen/).
 
@@ -36,7 +36,7 @@ The session covered:
 
 The notebooks are [available here](https://github.com/Yannael/gen-ai-sustain-brussels/tree/main/Part_2_OpenAI_API).
 
-# Part 3: Hands-on workshop on using open-source generative AI models with Hugging Face, and deploying Gradio web applications
+# Part 3: Hands-on session on using open-source models with Hugging Face
 
 Half-day (3 hours). Instructor: [Yann-Aël Le Borgne](https://www.linkedin.com/in/yannaelb/). 
 
