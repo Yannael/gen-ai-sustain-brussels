@@ -35,7 +35,6 @@ The session covered:
 -  Converting text to speech and speech to text [<img align="center" src="https://colab.research.google.com/assets/colab-badge.svg" />](https://colab.research.google.com/github/Yannael/gen-ai-sustain-brussels/blob/main/Part_2_OpenAI_API/5_Audio.ipynb)
 
 
-
 # Part 3: Hands-on session - Using open-source models with Hugging Face
 
 Half-day (3 hours). Instructor: [Yann-Aël Le Borgne](https://www.linkedin.com/in/yannaelb/). The notebooks are [available here](https://github.com/Yannael/gen-ai-sustain-brussels/tree/main/Part_3_HuggingFace_Gradio).
