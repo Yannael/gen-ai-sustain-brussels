@@ -2,12 +2,12 @@
 
 ![slide1](images/slide1.png)
 
-This repository contains the training material for the [SustAIN.Brussels training track on ChatGPT and next-generation assistants](https://www.sustain.brussels/fr_BE/event/chatgpt-next-generation-assistants-training-track-108/register). The track took place between the 2nd of April 2025 and the 4th of April 2025, at [FARI](https://www.fari.brussels/).
+This repository contains the training material for the [SustAIn.Brussels training track on ChatGPT and next-generation assistants](https://www.sustain.brussels/fr_BE/event/chatgpt-next-generation-assistants-training-track-108/register). The track took place between the 2nd of April 2025 and the 4th of April 2025, at [FARI](https://www.fari.brussels/).
 
 
 # Part 1: Non-technical introduction to generative AI
 
-Full day (6 hours). Instructor: [Yann-Aël Le Borgne](https://www.linkedin.com/in/yannaelb/). The slides are [available here](https://github.com/Yannael/gen-ai-sustain-brussels/tree/main/Part_1_Intro_ChatGPT_AI_Assistants).
+Full day (6 hours). Instructor: [Yann-Aël Le Borgne](https://www.linkedin.com/in/yannaelb/). The slides are available [in PDF format](https://github.com/Yannael/gen-ai-sustain-brussels/tree/main/Part_1_Intro_ChatGPT_AI_Assistants) or as [Google slides](https://docs.google.com/presentation/d/1x82pTUJd5nogycmzaOZIUKLYJLg7_PSJ).
 
 The day was divided in five main parts:
 
